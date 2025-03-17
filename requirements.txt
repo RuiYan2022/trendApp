@@ -1,0 +1,9 @@
+dash
+dash-auth
+dash-table
+plotly
+pandas
+numpy
+python-dotenv
+flask
+gunicorn
